@@ -1,5 +1,5 @@
 {
-  "name": "joi-object-id-extension",
+  "name": "object-id-joi-extension",
   "version": "1.0.0",
   "description": "",
   "main": "./lib/index.js",
